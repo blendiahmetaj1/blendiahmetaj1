@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @blendiahmetaj1
 - 👀 I’m interested in web programing 
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on a new mmo game
 - 📫 How to reach me: mail: blendi.esim@gmail.com 
 
 <!---
